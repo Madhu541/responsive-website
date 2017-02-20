@@ -1,0 +1,69 @@
+body{
+  display: block;
+  margin: auto;
+
+}
+.navbar brand{
+  font-family: 'Dancing Script', cursive;
+}
+.image1{
+  width: 400px;
+  height:380px;
+  padding-left: 40px;
+  padding-top: 30px;
+  margin: 0 auto;
+  display: block;
+
+}
+.image{
+
+  margin: 0 auto;
+    display: block;
+}
+.font{
+text-align: center;
+  font-family: 'Caveat Brush', cursive;
+
+}
+.image2{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  margin: 0 auto;
+    display: block;
+
+}
+.button{
+  margin: 50px;
+  margin-left: 90px;
+border-radius: 40px;
+padding: 10px;
+
+}
+
+p{
+  text-align: center;
+font-size: 25px;
+  margin-top: 70px;
+  padding-top: -50px;
+}
+.form{
+  text-align: center;
+  margin-left: 150px;
+}
+#map {
+       height: 400px;
+       width: 100%;
+      }
+      .font{
+        text-align: center;
+        font-family: 'Open Sans Condensed', sans-serif;
+      }
+.Numbers{
+  text-align: center;
+  font-size: 15px;
+}
+hr.style8 {
+	border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;
+}
